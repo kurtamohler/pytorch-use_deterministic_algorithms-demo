@@ -3,4 +3,4 @@ Demo of PyTorch's new tool for enforcing reproducibility, `torch.use_determinist
 
 I wrote this demo to showcase why we care about determinism and how it is enforced in PyTorch.
 
-Check out the notebook [here](PyTorch use_deterministic_algorithms Demo.ipynb)
+Check out the notebook [here](PyTorch%20use_deterministic_algorithms%20Demo.ipynb)
